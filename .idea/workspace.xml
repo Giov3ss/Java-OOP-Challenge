@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ce95412-1482-473a-bec7-5729354b6891" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Apple/Fabrica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lancamento/apple/Iphone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lancamento/browser/AppBrowser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lancamento/browser/NavegadorInternet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lancamento/chamada/AparelhoTelefonico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lancamento/chamada/AppChamada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lancamento/musica/AppMusica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lancamento/musica/ReprodutorMusical.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AparelhoTelefonico.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NavegadorInternet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReprodutoMusical.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
